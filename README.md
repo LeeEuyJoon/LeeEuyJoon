@@ -11,7 +11,7 @@
 - 한양대학교 데이터사이언스 전공 재학중이며, 2026년 2월 졸업 예정입니다.
 
 
-## SKill
+## Skill
 
 #### Backend
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
