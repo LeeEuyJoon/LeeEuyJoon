@@ -4,11 +4,10 @@
 
 <br>
 
-- 새로운 배움을 즐기며 빠르게 성장하는 백엔드 개발자 이의준입니다.
-- Java & Spring 위주로 공부를 해왔고, LLM에 대한 이해와 경험이 있습니다.
+- 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
+- Java & Spring 기반의 백엔드 개발자입니다.
 - TS & REACT & NEXT.js 를 활용해 프로젝트에 프론트엔드로 참여해본 바가 있습니다.
 - 현재는 RAG를 공부중입니다.
-- 한양대학교 데이터사이언스 전공 재학중이며, 2026년 2월 졸업 예정입니다.
 
 
 ## Skill
@@ -16,7 +15,8 @@
 #### Backend
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![JPA](https://img.shields.io/badge/JPA-FF6600?style=for-the-badge)](https://docs.oracle.com/javaee/7/tutorial/persistence-intro.htm)
+[![JPA](https://img.shields.io/badge/JPA-FF6600?style=for-the-badge&logo=hibernate&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/persistence-intro.htm)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 #### Frontend
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -25,13 +25,12 @@
 
 #### AI / Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge)](https://python.langchain.com)
+[![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com)
 
-#### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-#### Cloud
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+#### DevOps
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
 
