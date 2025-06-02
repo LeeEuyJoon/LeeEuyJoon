@@ -5,30 +5,34 @@
 <br>
 
 - 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
-- Java & Spring 기반의 백엔드 개발자입니다.
-- TS & REACT & NEXT.js 를 활용해 프로젝트에 프론트엔드로 참여해본 바가 있습니다.
-- 현재는 RAG를 공부중입니다.
+- Java & Spring 기반의 백엔드 개발자입니다. [->](https://github.com/LeeEuyJoon/popomance) 
+- TS & REACT & NEXT.js 를 활용해 프로젝트에 프론트엔드로 참여한 경험이 있습니다. [->](https://www.unsemawang.com) 
+- 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다. [->](https://github.com/LeeEuyJoon/Carrer-Hi)
 
 
 ## Skill
 
-#### Backend
+### Language
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+#### Backend
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JPA](https://img.shields.io/badge/JPA-FF6600?style=for-the-badge&logo=hibernate&logoColor=white)](https://docs.oracle.com/javaee/7/tutorial/persistence-intro.htm)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
 #### Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 #### AI / Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/chroma-core/chroma)
 
-
-#### DevOps
+#### DevOps & Cloud
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
