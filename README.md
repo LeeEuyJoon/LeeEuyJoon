@@ -7,7 +7,7 @@
 - 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
 - Java & Spring 기반의 백엔드 개발자입니다. [->](https://github.com/LeeEuyJoon/popomance) 
 - TS & REACT & NEXT.js 를 활용해 프로젝트에 프론트엔드로 참여한 경험이 있습니다. [->](https://www.unsemawang.com) 
-- 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다. [->](https://github.com/Career-Hi/Carrer-Hi-RAG)
+- 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다. [->](https://github.com/Career-Hi/Carrer-Hi-RAG) [->](https://careerhy.com/)
 
 
 ## Skill
