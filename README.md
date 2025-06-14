@@ -1,14 +1,20 @@
+<!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&text=Lee%20Euy%20Joon&fontAlign=30&fontSize=30&desc=Backend%20Developer&descAlign=60&descAlignY=50&theme=radical" alt="reversal">
 </p>
+-->
 
 <br>
 
-- 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
-- Java & Spring 기반의 백엔드 개발자입니다.
-- TS & REACT & NEXT.js 를 활용해 프로젝트에 프론트엔드로 참여한 경험이 있습니다. [->](https://www.unsemawang.com) 
-- 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다. [->](https://github.com/Career-Hi/Carrer-Hi-RAG) [->](https://careerhy.com/)
+## 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
+> - Java & Spring 기반의 백엔드 중심으로 공부를 해왔습니다.
+> - TypeScript & React & Next.js 를 활용해 프론트엔드 개발을 담당한 경험이 있습니다.
+>    - [[SITE]](https://www.unsemawang.com) : 종합 운세 커뮤니티 및 채팅 플랫폼
+>    - 현재는 백엔드까지 유지보수 및 고도화를 진행중입니다.
+> - 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다.
+>    - [[REPO]](https://github.com/Career-Hi/Carrer-Hi-RAG), [[SITE]](https://careerhy.com/) : 개인화 맞춤 채용공고 추천 RAG 시스템
 
+<br>
 
 ## Skill
 
