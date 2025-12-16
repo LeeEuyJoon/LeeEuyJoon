@@ -1,24 +1,48 @@
-<!-- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Lee%20Euy%20Joon&fontAlign=30&fontSize=30&desc=Backend%20Developer&descAlign=60&descAlignY=50&theme=radical" alt="reversal">
-</p>
--->
+
+
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&weight=700&duration=3000&color=7B71F7FF&center=true&vCenter=true&width=435&lines=Backend;Java;LLM+/+RAG;LangChain+/+LanGrpah;)](https://git.io/typing-svg)
+
+</div>
+
+
+<div align="center">
+
+`# Java` `# SpringBoot` `# JPA` `# MySQL` `# Redis` `# FastAPI`
+
+`# Python` `# LLM` `# RAG` `# LangChain` `# LangGraph`
+
+`# AWS` `# Docker` `# Docker Swarm`
+
+`# TypeScript` `# React` `# Next.js`
+
+</div>
+
+
+<br>
+<br>
+
+- **⭐ Unsemawang** — [\[SITE\]](https://www.unsemawang.com)
+- **⭐ Career-HY** — [\[SITE\]](https://careerhy.com/) | [\[REPO\]](https://github.com/Career-Hi/Carrer-Hi-RAG)
+- **Lilling** — [\[SITE\]](https://www.lill.ing/) | [\[REPO\]](https://github.com/LeeEuyJoon/lilling-be)
+- **동시성 처리 데모** — [\[REPO\]](https://github.com/LeeEuyJoon/concurrency-srategies-demo)
+- **Popomance** — [\[REPO\]](https://github.com/LeeEuyJoon/popomance)
+- **Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
+
+
 
 <br>
 
-## 새로운 배움을 즐기며 빠르게 성장하는 개발자 이의준입니다.
-> - Java & Spring 기반의 백엔드 중심으로 공부를 해왔습니다.
-> - TypeScript & React & Next.js 를 활용해 프론트엔드 개발을 담당한 경험이 있습니다.
->    - [[SITE]](https://www.unsemawang.com) : 종합 운세 커뮤니티 및 채팅 플랫폼
-> - 현재는 RAG에 대해 공부중이며, 관련 프로젝트를 진행하고 있습니다.
->    - [[REPO]](https://github.com/Career-Hi/Carrer-Hi-RAG), [[SITE]](https://careerhy.com/) : 개인화 맞춤 채용공고 추천 RAG 시스템
+
+
+
+
 
 <br>
 
-
-## Skill
-
-<br>
+<!--
 
 [![Language](https://img.shields.io/badge/LANGUAGE-E5E7EB?style=for-the-badge&labelWidth=100&logoColor=black&color=E5E7EB&labelColor=E5E7EB)]()<br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
@@ -45,40 +69,22 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 
+-->
 
-
-
-
-
-
-## Stats
+<!--
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeEuyJoon&show_icons=true&theme=radical&count_private=true)
+
+-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeEuyJoon&layout=compact)
 -->
 
-## Contact
 
 [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://luti-dev.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wns6619@gmail.com)
 
 
-
-<!--
-**LeeEuyJoon/LeeEuyJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
