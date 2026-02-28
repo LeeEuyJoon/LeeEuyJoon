@@ -25,14 +25,17 @@
 <br>
 
 - **⭐ Lilling** — [\[SITE\]](https://www.lill.ing/) | [\[REPO\]](https://github.com/LeeEuyJoon/lilling-be)
-- **⭐ Unsemawang** — ~~[\[SITE\]](https://www.unsemawang.com)~~
-- **⭐ Career-HY** — ~~[\[SITE\]](https://careerhy.com/)~~ | [\[REPO\]](https://github.com/Career-Hi/Carrer-Hi-RAG)
 
 <br>
 
-- **동시성 처리 데모** — [\[REPO\]](https://github.com/LeeEuyJoon/concurrency-srategies-demo)
-- **Popomance** — [\[REPO\]](https://github.com/LeeEuyJoon/popomance)
-- **Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
+- **👥 Unsemawang** — ~~[\[SITE\]](https://www.unsemawang.com)~~ |  [\[INFO\]](https://careerb2g.oopy.io/1cfb6cdc-cf4e-81c5-9557-cdd0b09453c5) 
+- **👥 Career-HY** — ~~[\[SITE\]](https://careerhy.com/)~~ | [\[REPO\]](https://github.com/Career-Hi/Carrer-Hi-RAG)
+
+<br>
+
+- **🔍 Lock Strategy Demo** — [\[REPO\]](https://github.com/LeeEuyJoon/concurrency-srategies-demo)
+- **🔍 JPA N+1** -  [\[REPO\]](https://github.com/LeeEuyJoon/jpa-N-plus-1) 
+- **🔍 Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
 
 
 
