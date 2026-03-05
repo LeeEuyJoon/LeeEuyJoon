@@ -34,8 +34,12 @@
 <br>
 
 - **🔍 Lock Strategy Demo** — [\[REPO\]](https://github.com/LeeEuyJoon/concurrency-srategies-demo)
-- **🔍 JPA N+1** -  [\[REPO\]](https://github.com/LeeEuyJoon/jpa-N-plus-1) 
-- **🔍 Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
+- **🔍 JPA N+1** -  [\[REPO\]](https://github.com/LeeEuyJoon/jpa-N-plus-1)
+
+<br>
+
+- **🎲 PokeMatch** — [\[SITE\]](https://pokemon-demo-ashy.vercel.app/)
+- **🎲 Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
 
 
 
