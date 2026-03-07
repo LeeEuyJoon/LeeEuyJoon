@@ -39,7 +39,7 @@
 <br>
 
 - **🎲 PokeMatch** — [\[SITE\]](https://pokemon-demo-ashy.vercel.app/)
-- **🎲 Mystic Advice** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
+- **🎲 Destiny** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
 
 
 
