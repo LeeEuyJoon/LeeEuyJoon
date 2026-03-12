@@ -24,22 +24,22 @@
 <br>
 <br>
 
-- **⭐ Lilling** — [\[SITE\]](https://www.lill.ing/) | [\[REPO\]](https://github.com/LeeEuyJoon/lilling-be)
+- **⭐ Lilling** — [\[SITE\]](https://lill.ing/project) | [\[REPO\]](https://lill.ing/REPO6lm)
 
 <br>
 
-- **👥 Unsemawang** — ~~[\[SITE\]](https://www.unsemawang.com)~~ |  [\[INFO\]](https://careerb2g.oopy.io/1cfb6cdc-cf4e-81c5-9557-cdd0b09453c5) 
-- **👥 Career-HY** — ~~[\[SITE\]](https://careerhy.com/)~~ | [\[REPO\]](https://github.com/Career-Hi/Carrer-Hi-RAG)
+- **👥 Unsemawang** — ~~[\[SITE\]](https://lill.ing/UNSE2ls)~~ |  [\[INFO\]](https://lill.ing/UNSE6lm) 
+- **👥 Career-HY** — ~~[\[SITE\]](https://lill.ing/CAREERq)~~ | [\[REPO\]](https://lill.ing/REPO2ls)
 
 <br>
 
-- **🔍 Lock Strategy Demo** — [\[REPO\]](https://github.com/LeeEuyJoon/concurrency-srategies-demo)
-- **🔍 JPA N+1** -  [\[REPO\]](https://github.com/LeeEuyJoon/jpa-N-plus-1)
+- **🔍 Lock Strategy Demo** — [\[REPO\]](https://lill.ing/REPOqFx)
+- **🔍 JPA N+1** -  [\[REPO\]](https://lill.ing/REPODNr)
 
 <br>
 
-- **🎲 PokeMatch** — [\[SITE\]](https://pokemon-demo-ashy.vercel.app/)
-- **🎲 Destiny** — [\[SITE\]](https://destiny-six-teal.vercel.app/)
+- **🎲 PokeMatch** — [\[SITE\]](https://lill.ing/POKEMON)
+- **🎲 Destiny** — [\[SITE\]](https://lill.ing/DESTINY)
 
 
 
