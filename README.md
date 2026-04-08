@@ -92,7 +92,7 @@
 -->
 
 
-[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)]([https://luti-dev.tistory.com/](https://lill.ing/LutiDev)
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://lill.ing/LutiDev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutidevzz@gmail.com)
 
 
