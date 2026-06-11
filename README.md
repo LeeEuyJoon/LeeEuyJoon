@@ -40,6 +40,7 @@
 
 <br>
 
+- **🎲 MineCash** — [\[SITE\]](https://lill.ing/cKyftob)
 - **🎲 PokeMatch** — [\[SITE\]](https://lill.ing/POKEMON)
 - **🎲 Destiny** — [\[SITE\]](https://lill.ing/DESTINY)
 
