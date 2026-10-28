@@ -28,8 +28,8 @@
 
 <br>
 
-- **👥 Unsemawang** — ~~[\[SITE\]](https://lill.ing/UNSE2ls)~~ |  [\[INFO\]](https://lill.ing/UNSE6lm) 
-- **👥 Career-HY** — ~~[\[SITE\]](https://lill.ing/CAREERq)~~ | [\[REPO\]](https://lill.ing/REPO2ls)
+- **👥 Unsemawang** — [\[INFO\]](https://lill.ing/UNSE6lm) 
+- **👥 Career-HY** — [\[REPO\]](https://lill.ing/REPO2ls)
 
 <br>
 
